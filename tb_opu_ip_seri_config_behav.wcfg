@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_opu_ip_seri_config_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_opu_ip_seri_config" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="611500001fs"></ZoomEndTime>
+      <Cursor1Time time="225000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="248"></NameColumnWidth>
+      <ValueColumnWidth column_width="123"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="group629" type="group">
+      <obj_property name="label">tb</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_sys_clk" type="logic">
+         <obj_property name="ElementShortName">I_sys_clk</obj_property>
+         <obj_property name="ObjectShortName">I_sys_clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_rst_n" type="logic">
+         <obj_property name="ElementShortName">I_rst_n</obj_property>
+         <obj_property name="ObjectShortName">I_rst_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/cnt" type="array">
+         <obj_property name="ElementShortName">cnt[31:0]</obj_property>
+         <obj_property name="ObjectShortName">cnt[31:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_data" type="array">
+         <obj_property name="ElementShortName">I_data[3199:0]</obj_property>
+         <obj_property name="ObjectShortName">I_data[3199:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_data_valid" type="logic">
+         <obj_property name="ElementShortName">I_data_valid</obj_property>
+         <obj_property name="ObjectShortName">I_data_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/O_vg" type="array">
+         <obj_property name="ElementShortName">O_vg[399:0]</obj_property>
+         <obj_property name="ObjectShortName">O_vg[399:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /ready" type="logic">
+         <obj_property name="ElementShortName">ready</obj_property>
+         <obj_property name="ObjectShortName">ready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_ad_pos_data" type="array">
+         <obj_property name="ElementShortName">I_ad_pos_data[959:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_pos_data[959:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_ad_neg_data" type="array">
+         <obj_property name="ElementShortName">I_ad_neg_data[959:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_neg_data[959:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_ad_pos_eoc" type="array">
+         <obj_property name="ElementShortName">I_ad_pos_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_pos_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/I_ad_neg_eoc" type="array">
+         <obj_property name="ElementShortName">I_ad_neg_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_neg_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_ad_data" type="array">
+         <obj_property name="ElementShortName">I_ad_data[1079:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_data[1079:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/MID_data_valid" type="logic">
+         <obj_property name="ElementShortName">MID_data_valid</obj_property>
+         <obj_property name="ObjectShortName">MID_data_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/O_counter_reg" type="array">
+         <obj_property name="ElementShortName">O_counter_reg[2:0]</obj_property>
+         <obj_property name="ObjectShortName">O_counter_reg[2:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/cnt_flag" type="logic">
+         <obj_property name="ElementShortName">cnt_flag</obj_property>
+         <obj_property name="ObjectShortName">cnt_flag</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/O_data" type="array">
+         <obj_property name="ElementShortName">O_data[2999:0]</obj_property>
+         <obj_property name="ObjectShortName">O_data[2999:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/O_data_valid" type="logic">
+         <obj_property name="ElementShortName">O_data_valid</obj_property>
+         <obj_property name="ObjectShortName">O_data_valid</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group685" type="group">
+      <obj_property name="label">top</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_sys_clk" type="logic">
+         <obj_property name="ElementShortName">I_sys_clk</obj_property>
+         <obj_property name="ObjectShortName">I_sys_clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_rst_n" type="logic">
+         <obj_property name="ElementShortName">I_rst_n</obj_property>
+         <obj_property name="ObjectShortName">I_rst_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_data" type="array">
+         <obj_property name="ElementShortName">I_data[3199:0]</obj_property>
+         <obj_property name="ObjectShortName">I_data[3199:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_data_valid" type="logic">
+         <obj_property name="ElementShortName">I_data_valid</obj_property>
+         <obj_property name="ObjectShortName">I_data_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_ad_pos_data" type="array">
+         <obj_property name="ElementShortName">I_ad_pos_data[959:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_pos_data[959:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_ad_neg_data" type="array">
+         <obj_property name="ElementShortName">I_ad_neg_data[959:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_neg_data[959:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_ad_pos_eoc" type="array">
+         <obj_property name="ElementShortName">I_ad_pos_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_pos_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_ad_neg_eoc" type="array">
+         <obj_property name="ElementShortName">I_ad_neg_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_neg_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/O_vg" type="array">
+         <obj_property name="ElementShortName">O_vg[399:0]</obj_property>
+         <obj_property name="ObjectShortName">O_vg[399:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/ready" type="logic">
+         <obj_property name="ElementShortName">ready</obj_property>
+         <obj_property name="ObjectShortName">ready</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/O_data" type="array">
+         <obj_property name="ElementShortName">O_data[2999:0]</obj_property>
+         <obj_property name="ObjectShortName">O_data[2999:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/O_data_valid" type="logic">
+         <obj_property name="ElementShortName">O_data_valid</obj_property>
+         <obj_property name="ObjectShortName">O_data_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/I_ad_eoc" type="array">
+         <obj_property name="ElementShortName">I_ad_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/O_counter_reg" type="array">
+         <obj_property name="ElementShortName">O_counter_reg[2:0]</obj_property>
+         <obj_property name="ObjectShortName">O_counter_reg[2:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/cnt_flag" type="logic">
+         <obj_property name="ElementShortName">cnt_flag</obj_property>
+         <obj_property name="ObjectShortName">cnt_flag</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/O_counter_q" type="array">
+         <obj_property name="ElementShortName">O_counter_q[2:0]</obj_property>
+         <obj_property name="ObjectShortName">O_counter_q[2:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/MID_data_valid" type="logic">
+         <obj_property name="ElementShortName">MID_data_valid</obj_property>
+         <obj_property name="ObjectShortName">MID_data_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/DATA_WIDTH" type="array">
+         <obj_property name="ElementShortName">DATA_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">DATA_WIDTH[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/ARRAY_ROW_NUM" type="array">
+         <obj_property name="ElementShortName">ARRAY_ROW_NUM[31:0]</obj_property>
+         <obj_property name="ObjectShortName">ARRAY_ROW_NUM[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/AD_WIDTH" type="array">
+         <obj_property name="ElementShortName">AD_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">AD_WIDTH[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/ARRAY_COLUMN_NUM" type="array">
+         <obj_property name="ElementShortName">ARRAY_COLUMN_NUM[31:0]</obj_property>
+         <obj_property name="ObjectShortName">ARRAY_COLUMN_NUM[31:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group435" type="group">
+      <obj_property name="label">opu</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/I_sys_clk" type="logic">
+         <obj_property name="ElementShortName">I_sys_clk</obj_property>
+         <obj_property name="ObjectShortName">I_sys_clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/I_rst_n" type="logic">
+         <obj_property name="ElementShortName">I_rst_n</obj_property>
+         <obj_property name="ObjectShortName">I_rst_n</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/I_vg" type="array">
+         <obj_property name="ElementShortName">I_vg[399:0]</obj_property>
+         <obj_property name="ObjectShortName">I_vg[399:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/O_ad_pos_data" type="array">
+         <obj_property name="ElementShortName">O_ad_pos_data[959:0]</obj_property>
+         <obj_property name="ObjectShortName">O_ad_pos_data[959:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/O_ad_neg_data" type="array">
+         <obj_property name="ElementShortName">O_ad_neg_data[959:0]</obj_property>
+         <obj_property name="ObjectShortName">O_ad_neg_data[959:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/O_ad_pos_eoc" type="array">
+         <obj_property name="ElementShortName">O_ad_pos_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">O_ad_pos_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/O_ad_neg_eoc" type="array">
+         <obj_property name="ElementShortName">O_ad_neg_eoc[119:0]</obj_property>
+         <obj_property name="ObjectShortName">O_ad_neg_eoc[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/pos_mid_result" type="array">
+         <obj_property name="ElementShortName">pos_mid_result[2039:0]</obj_property>
+         <obj_property name="ObjectShortName">pos_mid_result[2039:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/neg_mid_result" type="array">
+         <obj_property name="ElementShortName">neg_mid_result[2039:0]</obj_property>
+         <obj_property name="ObjectShortName">neg_mid_result[2039:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/O_ad_pos_eoc_pre_delay" type="array">
+         <obj_property name="ElementShortName">O_ad_pos_eoc_pre_delay[119:0]</obj_property>
+         <obj_property name="ObjectShortName">O_ad_pos_eoc_pre_delay[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/O_ad_neg_eoc_pre_delay" type="array">
+         <obj_property name="ElementShortName">O_ad_neg_eoc_pre_delay[119:0]</obj_property>
+         <obj_property name="ObjectShortName">O_ad_neg_eoc_pre_delay[119:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/ARRAY_COLUMN_NUM" type="array">
+         <obj_property name="ElementShortName">ARRAY_COLUMN_NUM[31:0]</obj_property>
+         <obj_property name="ObjectShortName">ARRAY_COLUMN_NUM[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/AD_WIDTH" type="array">
+         <obj_property name="ElementShortName">AD_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">AD_WIDTH[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/ARRAY_ROW_NUM" type="array">
+         <obj_property name="ElementShortName">ARRAY_ROW_NUM[31:0]</obj_property>
+         <obj_property name="ObjectShortName">ARRAY_ROW_NUM[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/WEIGHT_WIDTH" type="array">
+         <obj_property name="ElementShortName">WEIGHT_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">WEIGHT_WIDTH[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/AD_IGNORE_WIDTH" type="array">
+         <obj_property name="ElementShortName">AD_IGNORE_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">AD_IGNORE_WIDTH[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_opu_array/MID_RESULT_WIDTH" type="array">
+         <obj_property name="ElementShortName">MID_RESULT_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">MID_RESULT_WIDTH[31:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group918" type="group">
+      <obj_property name="label">subtracter</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\subtracter[0].u_subtractor /start" type="logic">
+         <obj_property name="ElementShortName">start</obj_property>
+         <obj_property name="ObjectShortName">start</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\subtracter[0].u_subtractor /dina" type="array">
+         <obj_property name="ElementShortName">dina[7:0]</obj_property>
+         <obj_property name="ObjectShortName">dina[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\subtracter[0].u_subtractor /dinb" type="array">
+         <obj_property name="ElementShortName">dinb[7:0]</obj_property>
+         <obj_property name="ObjectShortName">dinb[7:0]</obj_property>
+         <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\subtracter[0].u_subtractor /dout" type="array">
+         <obj_property name="ElementShortName">dout[8:0]</obj_property>
+         <obj_property name="ObjectShortName">dout[8:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\subtracter[0].u_subtractor /AD_WIDTH" type="array">
+         <obj_property name="ElementShortName">AD_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">AD_WIDTH[31:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group928" type="group">
+      <obj_property name="label">shifter_and_accumlator</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /clk" type="logic">
+         <obj_property name="ElementShortName">clk</obj_property>
+         <obj_property name="ObjectShortName">clk</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /I_ad_data" type="array">
+         <obj_property name="ElementShortName">I_ad_data[8:0]</obj_property>
+         <obj_property name="ObjectShortName">I_ad_data[8:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /I_counter_data" type="array">
+         <obj_property name="ElementShortName">I_counter_data[2:0]</obj_property>
+         <obj_property name="ObjectShortName">I_counter_data[2:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /I_accumlator_clear" type="logic">
+         <obj_property name="ElementShortName">I_accumlator_clear</obj_property>
+         <obj_property name="ObjectShortName">I_accumlator_clear</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /O_accumlator_data" type="array">
+         <obj_property name="ElementShortName">O_accumlator_data[24:0]</obj_property>
+         <obj_property name="ObjectShortName">O_accumlator_data[24:0]</obj_property>
+         <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /O_data_valid" type="logic">
+         <obj_property name="ElementShortName">O_data_valid</obj_property>
+         <obj_property name="ObjectShortName">O_data_valid</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /AD_WIDTH" type="array">
+         <obj_property name="ElementShortName">AD_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">AD_WIDTH[31:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\shifter_and_accumlator[0].u_shifter_and_accumlator /AD_IGNORE_WIDTH" type="array">
+         <obj_property name="ElementShortName">AD_IGNORE_WIDTH[31:0]</obj_property>
+         <obj_property name="ObjectShortName">AD_IGNORE_WIDTH[31:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /I_data_valid" type="logic">
+      <obj_property name="ElementShortName">I_data_valid</obj_property>
+      <obj_property name="ObjectShortName">I_data_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /I_data" type="array">
+      <obj_property name="ElementShortName">I_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">I_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /O_data" type="logic">
+      <obj_property name="ElementShortName">O_data</obj_property>
+      <obj_property name="ObjectShortName">O_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /regN" type="array">
+      <obj_property name="ElementShortName">regN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">regN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /cnt" type="array">
+      <obj_property name="ElementShortName">cnt[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_opu_ip_seri_config/u_top/\piso[1].u_piso /DATA_WIDTH" type="array">
+      <obj_property name="ElementShortName">DATA_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_WIDTH[31:0]</obj_property>
+   </wvobject>
+</wave_config>

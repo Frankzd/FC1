@@ -1,0 +1,39 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram3_80_2/sim/ram3_80_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram3_80_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram2_672_2/sim/ram2_672_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram2_672_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram1_960_2/sim/ram1_960_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram1_960_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram0_3200_2/sim/ram0_3200_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram0_3200_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/new/FC_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fc1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/dist_to_fc1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module disti_to_fc1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fc_quant
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fc_quant_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/opu_array.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module opu_array_fc1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/piso.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module piso
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/shifter_and_accumlator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifter_and_accumlator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/subtractor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module subtractor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/u_delay_Mtime_Nbit_neg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay_Mtime_Nbit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_opu_ip_seri_config
+INFO: [VRFC 10-2458] undeclared symbol w_ad_neg_eoc_fc1, assumed default net type wire [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:127]
+INFO: [VRFC 10-2458] undeclared symbol w_ad_neg_eoc_fc2, assumed default net type wire [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:129]
+INFO: [VRFC 10-2458] undeclared symbol w_ad_neg_eoc_fc3, assumed default net type wire [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:131]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/project/OPU/OPU_VHDL/FC1/FC1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/c_addsub_1/sim/c_addsub_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity c_addsub_1
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/c_addsub_0/sim/c_addsub_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity c_addsub_0

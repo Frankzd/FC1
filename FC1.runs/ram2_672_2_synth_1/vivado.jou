@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Fri Dec  7 10:17:58 2018
+# Process ID: 32256
+# Current directory: D:/project/OPU/OPU_VHDL/FC1/FC1.runs/ram2_672_2_synth_1
+# Command line: vivado.exe -log ram2_672_2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ram2_672_2.tcl
+# Log file: D:/project/OPU/OPU_VHDL/FC1/FC1.runs/ram2_672_2_synth_1/ram2_672_2.vds
+# Journal file: D:/project/OPU/OPU_VHDL/FC1/FC1.runs/ram2_672_2_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ram2_672_2.tcl -notrace

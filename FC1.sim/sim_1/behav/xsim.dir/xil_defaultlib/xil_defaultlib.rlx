@@ -1,0 +1,22 @@
+0.6
+2017.2
+Jun 15 2017
+18:52:51
+D:/project/OPU/OPU_VHDL/FC1/FC1.sim/sim_1/behav/glbl.v,1497407496,verilog,,,,glbl,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v,1544257160,verilog,,,,tb_opu_ip_seri_config,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/dist_to_fc1.v,1543929066,verilog,,,,disti_to_fc1,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant.v,1544018402,verilog,,,,fc_quant,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v,1544018560,verilog,,,,fc_quant_2,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/opu_array.v,1544171798,verilog,,,,opu_array_fc1,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/piso.v,1543662678,verilog,,,,piso,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/shifter_and_accumlator.v,1543906878,verilog,,,,shifter_and_accumlator,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/subtractor.v,1543402234,verilog,,,,subtractor,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/top.v,1544083088,verilog,,,,top,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/u_delay_Mtime_Nbit_neg.v,1542786272,verilog,,,,delay_Mtime_Nbit,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/c_addsub_0/sim/c_addsub_0.vhd,1544149226,vhdl,,,,c_addsub_0,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/c_addsub_1/sim/c_addsub_1.vhd,1544149261,vhdl,,,,c_addsub_1,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram0_3200_2/sim/ram0_3200_2.v,1544149011,verilog,,,,ram0_3200_2,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram1_960_2/sim/ram1_960_2.v,1544149042,verilog,,,,ram1_960_2,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram2_672_2/sim/ram2_672_2.v,1544149073,verilog,,,,ram2_672_2,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/ip/ram3_80_2/sim/ram3_80_2.v,1544149137,verilog,,,,ram3_80_2,,,,,,,,
+D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/new/FC_top.v,1544167711,verilog,,,,fc1,,,,,,,,

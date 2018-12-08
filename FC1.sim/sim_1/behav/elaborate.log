@@ -1,0 +1,191 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/software/vivado_17/Vivado/2017.2/bin/unwrapped/win64.o/xelab.exe -wto c36f49f53ab54619baf601794cb0ff14 --debug typical --relax --mt 2 -L blk_mem_gen_v8_3_6 -L xil_defaultlib -L xbip_utils_v3_0_7 -L c_reg_fd_v12_0_3 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_3 -L xbip_dsp48_addsub_v3_0_3 -L xbip_addsub_v3_0_3 -L c_addsub_v12_0_10 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_opu_ip_seri_config_behav xil_defaultlib.tb_opu_ip_seri_config xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-1374] size mismatch in mixed language port association, vhdl port b [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/fc_quant_2.v:134]
+WARNING: [VRFC 10-278] actual bit length 100 differs from formal bit length 80 for port data_out [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:116]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 120 for port O_ad_neg_eoc_fc1 [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:127]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 84 for port O_ad_neg_eoc_fc2 [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:129]
+WARNING: [VRFC 10-278] actual bit length 84 differs from formal bit length 10 for port O_ad_pos_eoc_fc3 [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:130]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 10 for port O_ad_neg_eoc_fc3 [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:131]
+WARNING: [VRFC 10-278] actual bit length 3200 differs from formal bit length 3000 for port O_data [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/new/FC_top.v:156]
+WARNING: [VRFC 10-278] actual bit length 23 differs from formal bit length 25 for port O_accumlator_data [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/imports/new/top.v:146]
+WARNING: [VRFC 10-278] actual bit length 3200 differs from formal bit length 3000 for port data_from_last_fc [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/new/FC_top.v:226]
+WARNING: [VRFC 10-278] actual bit length 336 differs from formal bit length 1932 for port BIA_data_in [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/new/FC_top.v:244]
+WARNING: [VRFC 10-278] actual bit length 40 differs from formal bit length 230 for port BIA_data_in [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sources_1/new/FC_top.v:261]
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 120 for port O_ad_neg_eoc [D:/project/OPU/OPU_VHDL/FC1/FC1.srcs/sim_1/imports/new/tb_opu_ip_seri_config.v:146]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package c_addsub_v12_0_10.c_addsub_v12_0_10_viv_comp
+Compiling package xbip_utils_v3_0_7.xbip_utils_v3_0_7_pkg
+Compiling package xbip_pipe_v3_0_3.xbip_pipe_v3_0_3_viv_comp
+Compiling package xbip_addsub_v3_0_3.xbip_addsub_v3_0_3_viv_comp
+Compiling package c_addsub_v12_0_10.c_addsub_v12_0_10_pkg
+Compiling package c_addsub_v12_0_10.c_addsub_v12_0_10_pkg_legacy
+Compiling package xbip_dsp48_addsub_v3_0_3.xbip_dsp48_addsub_v3_0_3_viv_com...
+Compiling package ieee.std_logic_arith
+Compiling package xbip_dsp48_addsub_v3_0_3.xbip_dsp48_addsub_v3_0_3_pkg
+Compiling package xbip_dsp48_wrapper_v3_0_4.xbip_dsp48_wrapper_v3_0_4_pkg
+Compiling package unisim.vcomponents
+Compiling package ieee.std_logic_signed
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling module xil_defaultlib.delay_Mtime_Nbit(TIMES=32'b011,B...
+Compiling module xil_defaultlib.disti_to_fc1
+Compiling module xil_defaultlib.piso
+Compiling module xil_defaultlib.subtractor
+Compiling module xil_defaultlib.delay_Mtime_Nbit(BITS=1)
+Compiling module xil_defaultlib.delay_Mtime_Nbit(TIMES=1,BITS=3)
+Compiling module xil_defaultlib.shifter_and_accumlator
+Compiling module xil_defaultlib.top(DATA_WIDTH=8,ARRAY_ROW_NUM=4...
+Compiling module xil_defaultlib.top(DATA_WIDTH=8,ARRAY_ROW_NUM=1...
+Compiling module xil_defaultlib.top(DATA_WIDTH=8,ARRAY_ROW_NUM=8...
+Compiling architecture dsp48e1_v of entity unisim.DSP48E1 [\DSP48E1(acascreg=0,adreg=0,alum...]
+Compiling architecture synth of entity xbip_dsp48_wrapper_v3_0_4.xbip_dsp48e1_wrapper_v3_0 [\xbip_dsp48e1_wrapper_v3_0(preg=...]
+Compiling architecture synth of entity xbip_dsp48_addsub_v3_0_3.xbip_dsp48_addsub_synth [\xbip_dsp48_addsub_synth(c_xdevi...]
+Compiling architecture synth of entity xbip_dsp48_addsub_v3_0_3.xbip_dsp48_addsub_v3_0_3_viv [\xbip_dsp48_addsub_v3_0_3_viv(c_...]
+Compiling architecture synth of entity xbip_addsub_v3_0_3.xbip_addsub_v3_0_3_viv [\xbip_addsub_v3_0_3_viv(c_xdevic...]
+Compiling architecture synth of entity xbip_pipe_v3_0_3.xbip_pipe_v3_0_3_viv [\xbip_pipe_v3_0_3_viv(c_latency=...]
+Compiling architecture synth of entity c_addsub_v12_0_10.c_addsub_v12_0_10_viv [\c_addsub_v12_0_10_viv(c_xdevice...]
+Compiling architecture xilinx of entity c_addsub_v12_0_10.c_addsub_v12_0_10 [\c_addsub_v12_0_10(c_xdevicefami...]
+Compiling architecture c_addsub_0_arch of entity xil_defaultlib.c_addsub_0 [c_addsub_0_default]
+Compiling module xil_defaultlib.delay_Mtime_Nbit(TIMES=32'b01,BI...
+Compiling module xil_defaultlib.fc_quant_default
+Compiling architecture synth of entity xbip_addsub_v3_0_3.xbip_addsub_v3_0_3_viv [\xbip_addsub_v3_0_3_viv(c_xdevic...]
+Compiling architecture synth of entity c_addsub_v12_0_10.c_addsub_v12_0_10_viv [\c_addsub_v12_0_10_viv(c_xdevice...]
+Compiling architecture xilinx of entity c_addsub_v12_0_10.c_addsub_v12_0_10 [\c_addsub_v12_0_10(c_xdevicefami...]
+Compiling architecture c_addsub_1_arch of entity xil_defaultlib.c_addsub_1 [c_addsub_1_default]
+Compiling module xil_defaultlib.fc_quant_2(OPU_WIDTH=32'b0111100...
+Compiling module xil_defaultlib.fc_quant_2(OPU_WIDTH=32'b0111001...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_axi_regs_fwd_v8_3(C_DATA...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6(C_FAMILY="zyn...
+Compiling module xil_defaultlib.ram0_3200_2
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6(C_FAMILY="zyn...
+Compiling module xil_defaultlib.ram1_960_2
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6(C_FAMILY="zyn...
+Compiling module xil_defaultlib.ram2_672_2
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_output_stage(...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_6.blk_mem_gen_v8_3_6(C_FAMILY="zyn...
+Compiling module xil_defaultlib.ram3_80_2
+Compiling module xil_defaultlib.fc1
+Compiling module xil_defaultlib.delay_Mtime_Nbit(TIMES=3,BITS=32...
+Compiling module xil_defaultlib.opu_array_fc1_default
+Compiling module xil_defaultlib.tb_opu_ip_seri_config
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_opu_ip_seri_config_behav
